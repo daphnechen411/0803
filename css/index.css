@@ -1,0 +1,17 @@
+#home{
+    background-image: url(./../images/p0.jpg);
+    background-size:cover;
+    background-position: center;
+    
+}
+.home-bg{
+    text-align: center;
+    background-color: rgba(10,10,10,.07);
+    margin:30px;
+    padding:20px;
+    border-radius: 10px;
+}
+
+.home-bg i{
+    color:red;
+}
